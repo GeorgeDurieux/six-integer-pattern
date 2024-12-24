@@ -23,7 +23,5 @@ The Six Integer Pattern project generates unique patterns of six integers from a
 
 This project is licensed under the MIT License.
 
-## Credits
 
-- Developed by [George Durieux](https://github.com/GeorgeDurieux).
 
