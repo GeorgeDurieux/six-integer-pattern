@@ -11,6 +11,19 @@ The Six Integer Pattern project generates unique patterns of six integers from a
   - Include more than 2 consecutive integers.
   - Have too many integers with the same last digit or from the same decade.
 
-## Example
+## Technologies
 
-Input:
+- **Language**: Java
+- **Tools**: 
+  - `Scanner` for input handling.
+  - `TreeSet` for unique, sorted storage.
+  - `ArrayList` for generating and filtering combinations.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Credits
+
+- Developed by [George Durieux](https://github.com/GeorgeDurieux).
+
